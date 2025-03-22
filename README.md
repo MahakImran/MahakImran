@@ -59,7 +59,8 @@ Ensuring websites and applications **adapt beautifully** to different screen siz
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-imran-07194a293)   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahakImran)    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahakImran)   
+📧 **Email:** [mahakimran19@gmail.com](mailto:mahakimran19@gmail.com)  
 
 ---
 
