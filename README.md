@@ -45,10 +45,6 @@ I am always eager to learn new technologies, enhance my problem-solving skills, 
 ✔ Analyzed **performance metrics** to improve reach and engagement.  
 ✔ Supported the **digital marketing team** in campaign planning and execution.  
 
-
-
- 
-
 ---
 
 ## 🔥 Services I Offer  
@@ -64,6 +60,36 @@ Crafting **custom website designs** that align with your **brand identity** whil
 
 ### **📱 Responsive Design Implementation**  
 Ensuring websites and applications **adapt beautifully** to different screen sizes for an **optimal user experience** on all devices.  
+
+---
+
+## 📂 Projects  
+
+### 🖼️ Project 1: **Portfolio Website**  
+A personal portfolio website showcasing my skills, projects, and resume. Built with **HTML, CSS, and JavaScript**.  
+![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Screenshot)  
+🔗 [View Repository](https://github.com/yourusername/portfolio-website) | 🌍 [Live Demo](https://yourusername.github.io/portfolio-website)  
+
+---
+
+### 🖼️ Project 2: **Social Media Dashboard**  
+An interactive dashboard to track followers, likes, and engagement. Created using **React.js and Chart.js**.  
+![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)  
+🔗 [View Repository](https://github.com/yourusername/social-media-dashboard)  
+
+---
+
+### 🖼️ Project 3: **Voting System**  
+A form-based **C# desktop application** implementing a voting system with user authentication and results tracking.  
+![Voting System Screenshot](https://via.placeholder.com/800x400.png?text=Voting+System+Screenshot)  
+🔗 [View Repository](https://github.com/yourusername/voting-system)  
+
+---
+
+### 🖼️ Project 4: **Disk Forensic Tool**  
+A C++ tool to analyze FAT32 disk images, recover deleted files, and detect file manipulation patterns.  
+![Forensic Tool Screenshot](https://via.placeholder.com/800x400.png?text=Forensic+Tool+Screenshot)  
+🔗 [View Repository](https://github.com/yourusername/forensic-tool)  
 
 ---
 
