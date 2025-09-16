@@ -2,12 +2,12 @@
 
 🎓 **Software Engineering Student**  
 💻 **Front-End Developer | Web Enthusiast**  
-🚀 **Currently Learning:** React.js & Java  
+🚀 **Currently Learning:** Wordpress
 
 ---
 
 ## 🌟 About Me  
-I am a passionate **Software Engineering student** with a strong background in **programming and front-end development**. My expertise lies in creating **visually appealing, responsive, and user-friendly websites**. With proficiency in **C++, C#, .NET, HTML, CSS, and JavaScript**, I love bringing ideas to life through clean and efficient code.  
+I am a passionate **Software Engineering student** with a strong background in **programming and front-end development**. My expertise lies in creating **visually appealing, responsive, and user-friendly websites**. With proficiency in **C++, C#, .NET, HTML, CSS, JavaScript and React JS**, I love bringing ideas to life through clean and efficient code.  
 
 I am always eager to learn new technologies, enhance my problem-solving skills, and stay updated with the latest trends in **web development**.  
 
@@ -34,9 +34,20 @@ I am always eager to learn new technologies, enhance my problem-solving skills, 
 ## 💼 Experience  
 
 ### 🏢 **Internship at Code Alpha**  
-✔ Assisted in **developing and testing** software applications.  
+**Role:** C++ Development Intern Intern  
+✔ Assisted in **developing and testing** software projects.  
 ✔ Collaborated with **senior developers** on various projects.  
 ✔ Gained hands-on experience in **coding, debugging, and project management**.  
+
+### 🏢 **Internship at Dunya Consultants**  
+**Role:** Social Media Marketing Intern  
+✔ Created and scheduled **engaging social media content** across multiple platforms.  
+✔ Analyzed **performance metrics** to improve reach and engagement.  
+✔ Supported the **digital marketing team** in campaign planning and execution.  
+
+
+
+ 
 
 ---
 
