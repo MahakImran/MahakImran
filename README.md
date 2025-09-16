@@ -67,8 +67,7 @@ Ensuring websites and applications **adapt beautifully** to different screen siz
 
 ### 🖼️ Project 1: **Portfolio Website**  
 A personal portfolio website showcasing my skills, projects, resume and contact info. Built with **HTML, CSS, and JavaScript**.  
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Screenshot)  
-🔗 [View Repository](https://github.com/yourusername/portfolio-website) | 🌍 [Live Demo](https://yourusername.github.io/portfolio-website)  
+🔗 [View Repository](https://github.com/MahakImran/Personal-Portfolio-Website.git)  
 
 ---
 
