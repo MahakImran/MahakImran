@@ -71,27 +71,6 @@ A personal portfolio website showcasing my skills, projects, resume and contact 
 
 ---
 
-### 🖼️ Project 2: **Social Media Dashboard**  
-An interactive dashboard to track followers, likes, and engagement. Created using **React.js and Chart.js**.  
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)  
-🔗 [View Repository](https://github.com/yourusername/social-media-dashboard)  
-
----
-
-### 🖼️ Project 3: **Voting System**  
-A form-based **C# desktop application** implementing a voting system with user authentication and results tracking.  
-![Voting System Screenshot](https://via.placeholder.com/800x400.png?text=Voting+System+Screenshot)  
-🔗 [View Repository](https://github.com/yourusername/voting-system)  
-
----
-
-### 🖼️ Project 4: **Disk Forensic Tool**  
-A C++ tool to analyze FAT32 disk images, recover deleted files, and detect file manipulation patterns.  
-![Forensic Tool Screenshot](https://via.placeholder.com/800x400.png?text=Forensic+Tool+Screenshot)  
-🔗 [View Repository](https://github.com/yourusername/forensic-tool)  
-
----
-
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-imran-07194a293)   
