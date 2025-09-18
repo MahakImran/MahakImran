@@ -71,7 +71,7 @@ A personal portfolio website showcasing my skills, projects, resume and contact 
 
 ---
 
-### 🖼️ Project 1: **Waste and Recycling Management Platform**  
+### 🖼️ Project 2: **Waste and Recycling Management Platform**  
 A web-based platform that connects users with recycling centers, waste disposal services, and upcycling ideas. Built with **HTML, CSS, and JavaScript**.  
 🔗 [View Repository](https://github.com/MahakImran/Recycling-Platform.git)  
 
