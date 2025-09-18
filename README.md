@@ -77,6 +77,12 @@ A web-based platform that connects users with recycling centers, waste disposal 
 
 ---
 
+### 🖼️ Project 3: **Musaf sports Website**  
+A modern, responsive website for Musaf Sports, showcasing sportswear and uniforms with product highlights, customization options, and global presence. Built with **HTML, CSS, and JavaScript**.  
+🔗 [View Repository](https://github.com/MahakImran/Musaf-sports-Website.git)  
+
+---
+
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-imran-07194a293)   
