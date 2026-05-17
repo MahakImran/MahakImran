@@ -35,20 +35,17 @@ I am always eager to learn new technologies, enhance my problem-solving skills, 
 
 ### 🏢 **Internship at University of Sialkot**  
 **Role:** Admission Office (Academic Support)  
-✔ ASSISTED IN PROCESSING **STUDENT ADMISSIONS** 
-✔ GUIDED APPLICANTS THROUGH **ADMISSION PROCEDURES** 
-✔ COORDINATED WITH APPLICANTS TO **ANSWER QUESTIONS AND COLLECT REQUIRED
-DOCUMENTS**
-✔ DEVELOPED EXPERIENCE IN APPLICANT **PROCESSING AND DOCUMENT VERIFICATION**
+✔ Assisted in **processing student admissions**
+✔ Guided applicants through **admission procedures**
+✔ Coordinated with applicants to **answer questions and collect required documents**
+✔ Developed experience in **applicant processing and document verification**
 
 ### 🏢 **Internship at ISPR**  
-**Role:** PUBLIC RELATIONS / AWARENESS PROGRAM 
-✔ ATTENDED MULTIPLE SESSIONS ON CURRENT **NATIONAL AND INTERNATIONAL AFFAIRS** 
-✔ DEVELOPED UNDERSTANDING OF **MEDIA COMMUNICATION, PUBLIC RELATIONS, AND NATIONAL
-ISSUES**
-✔ ENHANCED **ANALYTICAL THINKING AND AWARENESS OF GLOBAL AND REGIONAL
-DEVELOPMENTS**
-✔ IMPROVED **COMMUNICATION AND DISCUSSION SKILLS** THROUGH INTERACTIVE SESSIONS
+**Role:** Public Relations / Awareness program 
+✔ Attended multiple sessions on **current national and international affairs**
+✔ Developed understanding of **media communication, public relations, and national issues**
+✔ Enhanced **analytical thinking and awareness of global and regional developments**
+✔ Improved **communication and discussion skills through interactive sessions**
 
 ### 🏢 **Internship at Dunya Consultants**  
 **Role:** Social Media Marketing Intern  
