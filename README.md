@@ -33,17 +33,34 @@ I am always eager to learn new technologies, enhance my problem-solving skills, 
 
 ## 💼 Experience  
 
-### 🏢 **Internship at Code Alpha**  
-**Role:** C++ Development Intern Intern  
-✔ Assisted in **developing and testing** software projects.  
-✔ Collaborated with **senior developers** on various projects.  
-✔ Gained hands-on experience in **coding, debugging, and project management**.  
+### 🏢 **Internship at University of Sialkot**  
+**Role:** Admission Office (Academic Support)  
+✔ ASSISTED IN PROCESSING **STUDENT ADMISSIONS** 
+✔ GUIDED APPLICANTS THROUGH **ADMISSION PROCEDURES** 
+✔ COORDINATED WITH APPLICANTS TO **ANSWER QUESTIONS AND COLLECT REQUIRED
+DOCUMENTS**
+✔ DEVELOPED EXPERIENCE IN APPLICANT **PROCESSING AND DOCUMENT VERIFICATION**
+
+### 🏢 **Internship at ISPR**  
+**Role:** PUBLIC RELATIONS / AWARENESS PROGRAM 
+✔ ATTENDED MULTIPLE SESSIONS ON CURRENT **NATIONAL AND INTERNATIONAL AFFAIRS** 
+✔ DEVELOPED UNDERSTANDING OF **MEDIA COMMUNICATION, PUBLIC RELATIONS, AND NATIONAL
+ISSUES**
+✔ ENHANCED **ANALYTICAL THINKING AND AWARENESS OF GLOBAL AND REGIONAL
+DEVELOPMENTS**
+✔ IMPROVED **COMMUNICATION AND DISCUSSION SKILLS** THROUGH INTERACTIVE SESSIONS
 
 ### 🏢 **Internship at Dunya Consultants**  
 **Role:** Social Media Marketing Intern  
 ✔ Created and scheduled **engaging social media content** across multiple platforms.  
 ✔ Analyzed **performance metrics** to improve reach and engagement.  
 ✔ Supported the **digital marketing team** in campaign planning and execution.  
+
+### 🏢 **Internship at Code Alpha**  
+**Role:** C++ Development Intern 
+✔ Assisted in **developing and testing** software projects.  
+✔ Collaborated with **senior developers** on various projects.  
+✔ Gained hands-on experience in **coding, debugging, and project management**.  
 
 ---
 
