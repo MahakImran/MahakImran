@@ -46,10 +46,10 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at Big Brains**
 **Role:** Software Quality Engineering (SQE) Intern
-✔ Assisted in **testing Android applications**<br>  
-✔ Performed **functional, UI/UX, usability, and compatibility testing**<br>  
-✔ Identified and **reported software bugs** with proper documentation<br>  
-✔ Verified **bug fixes through regression testing**<br>  
+✔ Assisted in **testing Android applications**<br>
+✔ Performed **functional, UI/UX, usability, and compatibility testing**<br>
+✔ Identified and **reported software bugs** with proper documentation<br>
+✔ Verified **bug fixes through regression testing**<br>
 ✔ Developed practical experience in **software quality assurance and testing workflows**
 
 ### 🏢 **Internship at ISPR**  
@@ -61,15 +61,15 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at Dunya Consultants**  
 **Role:** Social Media Marketing Intern  
-✔ Created and scheduled **engaging social media content** across multiple platforms.<br>  
-✔ Analyzed **performance metrics** to improve reach and engagement.<br>  
-✔ Supported the **digital marketing team** in campaign planning and execution.  
+✔ Created and scheduled **engaging social media content** across multiple platforms.<br> 
+✔ Analyzed **performance metrics** to improve reach and engagement.<br>
+✔ Supported the **digital marketing team** in campaign planning and execution. 
 
 ### 🏢 **Internship at Code Alpha**  
 **Role:** C++ Development Intern 
-✔ Assisted in **developing and testing** software projects.<br>  
-✔ Collaborated with **senior developers** on various projects.<br>  
-✔ Gained hands-on experience in **coding, debugging, and project management**.  
+✔ Assisted in **developing and testing** software projects.<br>
+✔ Collaborated with **senior developers** on various projects.<br>
+✔ Gained hands-on experience in **coding, debugging, and project management**.
 
 ---
 
