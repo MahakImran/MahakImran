@@ -38,11 +38,11 @@ I am continuously learning and improving my development skills by working on pra
 ## 💼 Experience  
 
 ### 🏢 **Internship at University of Sialkot**  
-**Role:** Admission Office (Academic Support)  
-✔ Assisted in **processing student admissions**
-✔ Guided applicants through **admission procedures**
-✔ Coordinated with applicants to **answer questions and collect required documents**
-✔ Developed experience in **applicant processing and document verification**
+**Role:** Admission Office (Academic Support)<br>  
+✔ Assisted in **processing student admissions**<br>
+✔ Guided applicants through **admission procedures**<br>
+✔ Coordinated with applicants to **answer questions and collect required documents**<br>
+✔ Developed experience in **applicant processing and document verification**<br>
 
 ### 🏢 **Internship at Big Brains**
 **Role:** Software Quality Engineering (SQE) Intern
