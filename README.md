@@ -39,7 +39,7 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at University of Sialkot**  
 **Role:** Admission Office (Academic Support)<br>  
-✔ Assisted in **processing student admissions**<br>
+✔ Assisted in **processing student admissions**
 ✔ Guided applicants through **admission procedures**<br>
 ✔ Coordinated with applicants to **answer questions and collect required documents**<br>
 ✔ Developed experience in **applicant processing and document verification**<br>
@@ -54,10 +54,10 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at ISPR**  
 **Role:** Public Relations / Awareness program 
-✔ Attended multiple sessions on **current national and international affairs**
-✔ Developed understanding of **media communication, public relations, and national issues**
-✔ Enhanced **analytical thinking and awareness of global and regional developments**
-✔ Improved **communication and discussion skills through interactive sessions**
+✔ Attended multiple sessions on **current national and international affairs**<br>
+✔ Developed understanding of **media communication, public relations, and national issues**<br>
+✔ Enhanced **analytical thinking and awareness of global and regional developments**<br>
+✔ Improved **communication and discussion skills through interactive sessions**<br>
 
 ### 🏢 **Internship at Dunya Consultants**  
 **Role:** Social Media Marketing Intern  
