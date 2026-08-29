@@ -7,9 +7,13 @@
 ---
 
 ## 🌟 About Me  
-I am a passionate **Software Engineering student** with a strong background in **programming and front-end development**. My expertise lies in creating **visually appealing, responsive, and user-friendly websites**. With proficiency in **C++, C#, .NET, HTML, CSS, JavaScript and React JS**, I love bringing ideas to life through clean and efficient code.  
+I am a **Software Engineering graduate** with a strong interest in **Frontend Development** and building **responsive, user-friendly web interfaces**. I enjoy turning ideas into functional and visually engaging websites with a focus on clean design, usability, and a smooth user experience.
 
-I am always eager to learn new technologies, enhance my problem-solving skills, and stay updated with the latest trends in **web development**.  
+My technical skills include **HTML, CSS, JavaScript, React JS, C#, .NET, C++, and SQL**. I have developed academic and project-based web applications, including responsive websites and user-focused web interfaces.
+
+I am continuously learning and improving my development skills by working on practical projects, exploring modern web technologies, and strengthening my problem-solving abilities.
+
+💻 **Interested in:** Frontend Development | Web Development | UI Development 
 
 ---
 
