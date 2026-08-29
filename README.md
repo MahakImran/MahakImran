@@ -38,18 +38,18 @@ I am continuously learning and improving my development skills by working on pra
 ## 💼 Experience  
 
 ### 🏢 **Internship at University of Sialkot**  
-**Role:** Admission Office (Academic Support)<br>  
-✔ Assisted in **processing student admissions**
+**Role:** Admission Office (Academic Support)  
+✔ Assisted in **processing student admissions**<br>
 ✔ Guided applicants through **admission procedures**<br>
 ✔ Coordinated with applicants to **answer questions and collect required documents**<br>
-✔ Developed experience in **applicant processing and document verification**<br>
+✔ Developed experience in **applicant processing and document verification**
 
 ### 🏢 **Internship at Big Brains**
 **Role:** Software Quality Engineering (SQE) Intern
-✔ Assisted in **testing Android applications**  
-✔ Performed **functional, UI/UX, usability, and compatibility testing**  
-✔ Identified and **reported software bugs** with proper documentation  
-✔ Verified **bug fixes through regression testing**  
+✔ Assisted in **testing Android applications**<br>  
+✔ Performed **functional, UI/UX, usability, and compatibility testing**<br>  
+✔ Identified and **reported software bugs** with proper documentation<br>  
+✔ Verified **bug fixes through regression testing**<br>  
 ✔ Developed practical experience in **software quality assurance and testing workflows**
 
 ### 🏢 **Internship at ISPR**  
@@ -61,14 +61,14 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at Dunya Consultants**  
 **Role:** Social Media Marketing Intern  
-✔ Created and scheduled **engaging social media content** across multiple platforms.  
-✔ Analyzed **performance metrics** to improve reach and engagement.  
+✔ Created and scheduled **engaging social media content** across multiple platforms.<br>  
+✔ Analyzed **performance metrics** to improve reach and engagement.<br>  
 ✔ Supported the **digital marketing team** in campaign planning and execution.  
 
 ### 🏢 **Internship at Code Alpha**  
 **Role:** C++ Development Intern 
-✔ Assisted in **developing and testing** software projects.  
-✔ Collaborated with **senior developers** on various projects.  
+✔ Assisted in **developing and testing** software projects.<br>  
+✔ Collaborated with **senior developers** on various projects.<br>  
 ✔ Gained hands-on experience in **coding, debugging, and project management**.  
 
 ---
