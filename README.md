@@ -46,11 +46,11 @@ I am continuously learning and improving my development skills by working on pra
 
 ### 🏢 **Internship at Big Brains**
 **Role:** Software Quality Engineering (SQE) Intern
-￼✔ Assisted in **testing Android applications**  
-￼✔ Performed **functional, UI/UX, usability, and compatibility testing**  
-￼✔ Identified and **reported software bugs** with proper documentation  
-￼✔ Verified **bug fixes through regression testing**  
-￼✔ Developed practical experience in **software quality assurance and testing workflows**
+✔ Assisted in **testing Android applications**  
+✔ Performed **functional, UI/UX, usability, and compatibility testing**  
+✔ Identified and **reported software bugs** with proper documentation  
+✔ Verified **bug fixes through regression testing**  
+✔ Developed practical experience in **software quality assurance and testing workflows**
 
 ### 🏢 **Internship at ISPR**  
 **Role:** Public Relations / Awareness program 
