@@ -1,6 +1,6 @@
 # Hi there, I'm Mahak Imran! 👋  
 
-🎓 **Software Engineering Student**  
+🎓 **Software Engineer**  
 💻 **Front-End Developer | Web Enthusiast**  
 🚀 **Currently Learning:** Wordpress
 
