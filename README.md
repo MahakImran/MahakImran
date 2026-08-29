@@ -45,7 +45,7 @@ I am continuously learning and improving my development skills by working on pra
 ✔ Developed experience in **applicant processing and document verification**
 
 ### 🏢 **Internship at Big Brains**
-**Role:** Software Quality Engineering (SQE) Intern
+**Role:** Software Quality Engineering (SQE) Intern  
 ✔ Assisted in **testing Android applications**<br>
 ✔ Performed **functional, UI/UX, usability, and compatibility testing**<br>
 ✔ Identified and **reported software bugs** with proper documentation<br>
@@ -53,7 +53,7 @@ I am continuously learning and improving my development skills by working on pra
 ✔ Developed practical experience in **software quality assurance and testing workflows**
 
 ### 🏢 **Internship at ISPR**  
-**Role:** Public Relations / Awareness program 
+**Role:** Public Relations / Awareness program  
 ✔ Attended multiple sessions on **current national and international affairs**<br>
 ✔ Developed understanding of **media communication, public relations, and national issues**<br>
 ✔ Enhanced **analytical thinking and awareness of global and regional developments**<br>
@@ -66,7 +66,7 @@ I am continuously learning and improving my development skills by working on pra
 ✔ Supported the **digital marketing team** in campaign planning and execution. 
 
 ### 🏢 **Internship at Code Alpha**  
-**Role:** C++ Development Intern 
+**Role:** C++ Development Intern  
 ✔ Assisted in **developing and testing** software projects.<br>
 ✔ Collaborated with **senior developers** on various projects.<br>
 ✔ Gained hands-on experience in **coding, debugging, and project management**.
