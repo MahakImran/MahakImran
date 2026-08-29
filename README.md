@@ -109,6 +109,12 @@ A modern, responsive website for Musaf Sports, showcasing sportswear and uniform
 
 ---
 
+### 🖼️ Project 3: **DentroCare Website**  
+A modern, responsive e-commerce website for Dentro Care, showcasing high-quality dental instruments with organized product categories, secure online shopping, bulk order options, and a professional experience for dental practices and distributors. Built with **Wordress**.  
+🔗 [View Repository](https://github.com/MahakImran/DentroCare-Website)  
+🔗 [Visit Website](https://dentrocare.com/) 
+
+---
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-imran-07194a293)   
